@@ -1,75 +1,19 @@
-# Nuxt 3 Minimal Starter
+# How to Define Multiple Components in a Single File in Nuxt using JSX
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+These examples are part of my blog post [How to Define Multiple Components in a Single File in Nuxt using JSX](https://www.trpkovski.com/2024/01/21/how-to-define-multiple-components-in-a-single-file-in-nuxt-using-jsx). Please refer to the blog article for detailed explanation.
 
-## Setup
+![Hero image](https://res.cloudinary.com/suv4o/image/upload/w_750/v1705811682/blog/how-to-defining-multiple-components-in-a-single-file-in-nuxt/dx3lzu2av0hwbu2hkuob)
 
-Make sure to install the dependencies:
+# Getting started with the project
+
+## Install dependencies
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+yarn
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Run the project
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
 yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
